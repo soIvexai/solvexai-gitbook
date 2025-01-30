@@ -14,4 +14,4 @@ Use our **API endpoints** to automate staking decisions based on AI recommendati
 
 The leaderboard updates every **24 hours** based on model performance metrics.
 
-For more information, visit [Solvex AI GitHub](https://github.com/soIvexai/solvexAI-main).
+For more information, visit [Solvex AI GitHub](https://github.com/soIvexai).
